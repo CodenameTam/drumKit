@@ -87,3 +87,13 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.socialIcons i {
+  font-size: 24px;
+  color: #c84d2e;
+  padding: 10px;
+}
+
+.socialIcons i:hover {
+  color: #888888;
+}
