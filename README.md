@@ -26,7 +26,7 @@ I did however manage to customize the buttons and give the project personalized 
 
 ## Current Challenges
 
-Within Javascript the arguments or parameters that are passed in a function is where my mind will need time to understand this part of Javascript. However, I am able to observe code and eventually understand what part of the code connects to the other. With that being said, I will continue learning Javascript from the fundamentals in order to continue my development journey!
+Within Javascript, the arguments or parameters that are passed in a function is where my mind will need time to understand this concept completely. However, I am able to observe code and eventually understand what part of the code connects to the other. With that being said, I will continue learning Javascript from the fundamentals within my development journey!
 
 Enjoy!
 
