@@ -1,7 +1,7 @@
 # My Drum Kit — Using HTML, CSS, and JS
-
+<a href="https://distracted-leakey-83ed70.netlify.app">
 <img src="/images/drumkitPicture.png" alt="image of app" />
-
+</a>
 This app is a simple interactive drum kit that utilizes JavaScript’s event listeners to trigger a response from what the user presses or clicks. Overall, with learning Vanilla Javascript, this projects displays functionality that can be added to even a very basic site.
 
 ## Overview 
